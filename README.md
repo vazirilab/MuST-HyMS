@@ -15,4 +15,4 @@ Volumetric Ca2+ Imaging in the Mouse Brain Using Hybrid Multiplexed Sculpted Lig
 - [CaImAn-MATLAB](https://github.com/flatironinstitute/CaImAn-MATLAB)
 - Tested with MATLAB R2017b on Red Hat Enterprise Linux 7.2
 
-For additional information, please refer to the [Scan-Tefo / MuST / HyMS dissemination wiki](https://scantefo.rockefeller.edu/index.php?title=Main_Page).
+For additional information, please refer to the [Scan-TeFo / MuST / HyMS dissemination wiki](https://scantefo.rockefeller.edu/index.php?title=Main_Page).
